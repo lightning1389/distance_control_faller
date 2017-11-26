@@ -3,6 +3,10 @@ This repo includes the distance control for model car. You will find the communi
 
 https://www.youtube.com/watch?v=6Ho9u3_62ek
 
+Original: 
+
+![lkw](https://user-images.githubusercontent.com/33156463/33239117-a78139dc-d29b-11e7-84de-e79270a819a0.JPG)
+
 
 
 ![20140307_155722](https://user-images.githubusercontent.com/33156463/33239265-72455124-d29e-11e7-869f-f1394bad338a.jpg)
