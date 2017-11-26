@@ -16,5 +16,4 @@ Now:
 ![20140307_155722](https://user-images.githubusercontent.com/33156463/33239265-72455124-d29e-11e7-869f-f1394bad338a.jpg)
 
 ![schaltplan-berarbeitet](https://user-images.githubusercontent.com/33156463/33239269-72a6f758-d29e-11e7-8d1d-529b2cedf0a2.jpg)
-![schaltung](https://user-images.githubusercontent.com/33156463/33239270-72c01576-d29e-11e7-903b-4040c6f4f104.JPG)
 ![schaltung_eagle](https://user-images.githubusercontent.com/33156463/33239271-72dda672-d29e-11e7-9285-0544e012a9d5.JPG)
